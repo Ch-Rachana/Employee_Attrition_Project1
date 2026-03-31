@@ -1,2 +1,2 @@
 # Employee_Attrition_Project1
-This is an ML based project.It helps the employee whether attrited or not 
+This is a ML project based on Superwised learning using the model RandomForestClassifier. It helps the employee will attrited or not.
